@@ -1,35 +1,34 @@
-# Olá! 👋
-
-Meu nome é Laura, tenho 18 anos e sou estudante de programação.
-
-## Linguagens e Tecnologias que estou aprendendo
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## Apresentação Animada
-
-<svg width="100%" height="50">
-    <text x="10" y="35" fill="white" style="font-family: monospace; font-size: 20px;">
-        <tspan class="typing">Olá! Meu nome é Laura, tenho 18 anos e sou estudante de programação.</tspan>
-    </text>
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
     <style>
         @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
-
-        .typing {
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 2px solid rgba(255, 255, 255, 0.75);
-            animation: typing 4s steps(60, end), blink .75s step-end infinite;
+            from { width: 0 }
+            to { width: 100% }
         }
 
         @keyframes blink {
-            from { border-right-color: rgba(255, 255, 255, 0.75); }
-            to { border-right-color: transparent; }
+            50% { border-color: transparent }
+        }
+
+        .terminal {
+            font-family: monospace;
+            font-size: 18px;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+            border-right: 2px solid;
+            animation: typing 3s steps(40, end) forwards, blink 0.7s step-end infinite;
         }
     </style>
+
+    <rect width="100%" height="100%" fill="#282C34" rx="10"/>
+    <text x="20" y="50" fill="#61DAFB" class="terminal">
+        Olá! Meu nome é Laura, tenho 18 anos e sou estudante de programação.
+    </text>
+    <text x="20" y="100" fill="#F8F8F2" class="terminal" style="animation-delay: 3s;">
+        Linguagens e tecnologias que estou aprendendo:
+    </text>
+    
+    <image x="20" y="130" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <image x="70" y="130" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <image x="120" y="130" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </svg>
