@@ -1,61 +1,36 @@
-<h1 align="center">Laura | Estudante de Programação</h1>
-
 <p align="center">
-  <b>Atualmente estudando desenvolvimento web e buscando especialização em Front-end e Design.</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C640&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+a+Laura+Ferreira;Tenho+18+anos+e+estudo+TSI;Quero+me+especializar+em+Front-end;E+Design+Web." alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-## 📌 Sobre mim  
-
-Meu nome é **Laura**, tenho **18 anos** e estou iniciando minha jornada no **desenvolvimento web**. Estou constantemente aprimorando minhas habilidades em **HTML, CSS e JavaScript**, e meu objetivo é me especializar na criação de interfaces modernas e intuitivas.  
-
-Sou apaixonada por **design e experiência do usuário**, buscando unir código e estética para desenvolver soluções visuais impactantes.  
-
----
-
-## 🚀 Tecnologias em Aprendizado  
-
-Atualmente, estou estudando e praticando as seguintes tecnologias:  
-
-<div align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-  </a>
-</div>
-
-🔹 **HTML5** – Estruturação semântica e boas práticas  
-🔹 **CSS3** – Design responsivo e estilização avançada  
-🔹 **JavaScript** – Interatividade e dinamismo em páginas web  
-
----
-
-## 🎯 Objetivos  
-
-✅ Aprofundar conhecimentos em **Front-end** e **UX/UI Design**  
-✅ Explorar bibliotecas e frameworks como **React.js** no futuro  
-✅ Criar projetos práticos para reforçar o aprendizado  
-
----
-
-## 📬 Contato  
-
-Caso queira trocar experiências ou acompanhar meu progresso:  
+<h2 align="center">Tecnologias que estou estudando</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<h2 align="center">Onde me encontrar</h2>
+
+<p align="center">
+  <a href="https://instagram.com/seu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://linkedin.com/in/seu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://discord.com/users/seu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/seu_canal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitch.tv/seu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
