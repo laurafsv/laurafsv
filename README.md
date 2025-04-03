@@ -11,7 +11,7 @@
 
 <br />
 
-<h3 align="center">Tecnologias em aprendizado:</h3>
+<h3 align="center">Tecnologias em aprendizagem:</h3>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>
