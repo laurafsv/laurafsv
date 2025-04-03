@@ -1,34 +1,61 @@
-<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
-    <style>
-        @keyframes typing {
-            from { width: 0 }
-            to { width: 100% }
-        }
+<h1 align="center">Laura | Estudante de Programação</h1>
 
-        @keyframes blink {
-            50% { border-color: transparent }
-        }
+<p align="center">
+  <b>Atualmente estudando desenvolvimento web e buscando especialização em Front-end e Design.</b>
+</p>
 
-        .terminal {
-            font-family: monospace;
-            font-size: 18px;
-            white-space: nowrap;
-            overflow: hidden;
-            width: 0;
-            border-right: 2px solid;
-            animation: typing 3s steps(40, end) forwards, blink 0.7s step-end infinite;
-        }
-    </style>
+---
 
-    <rect width="100%" height="100%" fill="#282C34" rx="10"/>
-    <text x="20" y="50" fill="#61DAFB" class="terminal">
-        Olá! Meu nome é Laura, tenho 18 anos e sou estudante de programação.
-    </text>
-    <text x="20" y="100" fill="#F8F8F2" class="terminal" style="animation-delay: 3s;">
-        Linguagens e tecnologias que estou aprendendo:
-    </text>
-    
-    <image x="20" y="130" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <image x="70" y="130" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <image x="120" y="130" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</svg>
+## 📌 Sobre mim  
+
+Meu nome é **Laura**, tenho **18 anos** e estou iniciando minha jornada no **desenvolvimento web**. Estou constantemente aprimorando minhas habilidades em **HTML, CSS e JavaScript**, e meu objetivo é me especializar na criação de interfaces modernas e intuitivas.  
+
+Sou apaixonada por **design e experiência do usuário**, buscando unir código e estética para desenvolver soluções visuais impactantes.  
+
+---
+
+## 🚀 Tecnologias em Aprendizado  
+
+Atualmente, estou estudando e praticando as seguintes tecnologias:  
+
+<div align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+  </a>
+</div>
+
+🔹 **HTML5** – Estruturação semântica e boas práticas  
+🔹 **CSS3** – Design responsivo e estilização avançada  
+🔹 **JavaScript** – Interatividade e dinamismo em páginas web  
+
+---
+
+## 🎯 Objetivos  
+
+✅ Aprofundar conhecimentos em **Front-end** e **UX/UI Design**  
+✅ Explorar bibliotecas e frameworks como **React.js** no futuro  
+✅ Criar projetos práticos para reforçar o aprendizado  
+
+---
+
+## 📬 Contato  
+
+Caso queira trocar experiências ou acompanhar meu progresso:  
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SEU_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
