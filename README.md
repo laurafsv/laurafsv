@@ -46,4 +46,8 @@
 
 <br />
 
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=footer"/>
