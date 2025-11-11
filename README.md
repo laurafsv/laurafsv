@@ -19,8 +19,8 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
-  Olá! <em><b>Eu sou a Laura</b></em> 👋 — apaixonada por tecnologia, aprendizado constante e desenvolvimento de projetos criativos.  
-  Estou sempre em busca de aprimorar meus conhecimentos em programação, banco de dados e desenvolvimento web.  
+  Sou apaixonada por tecnologia, aprendizado constante e desenvolvimento de projetos criativos.  
+  Estou sempre em busca de aprimorar meus conhecimentos em programação, principalmente em desenvolvimento web e design.  
   Gosto de transformar ideias em algo funcional e visualmente agradável.
 </p>
 
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=ffffff" />
 </p>
 
-<br/>
 <br/>
 
 <h2 align="center"> <img src="https://img.shields.io/badge/📊-Estatísticas-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff" /> </h2>
