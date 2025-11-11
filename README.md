@@ -1,3 +1,7 @@
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1DB954&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+Ferreira!;Tenho+18+anos;+Estudo+Sistemas+para+Internet+no+IFSP;Foco+em+Front-End+e+Web+Design)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/laura-silva-54416735a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,26 +30,42 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Estudante de Análise e Desenvolvimento de Sistemas </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Foco em desenvolvimento web e banco de dados </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Criadora de projetos didáticos e tutoriais de programação </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Estudante de Sistemas para Internet </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Foco em desenvolvimento web e front-end </b></em><br/>
    <img src="/imgs/img1.png" width="15"/>   <em><b> Interessada em UI/UX Design e tecnologias modernas </b></em><br/>
 </p>
 
 <br/>
 <br/>
 
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Tecnologias</em> </h2>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Tecnologias em aprendizagem</em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://en.cppreference.com/w/" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" title="VS Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" title="Canva">
+    <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28"/>
+  </a>
 </p>
 
 <br/>
@@ -61,3 +81,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=laurafsv&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=footer"/>
