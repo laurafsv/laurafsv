@@ -20,8 +20,7 @@
 
 <p>
   Sou apaixonada por tecnologia, aprendizado constante e desenvolvimento de projetos criativos.  
-  Estou sempre em busca de aprimorar meus conhecimentos em programação, principalmente em desenvolvimento web e design.  
-  Gosto de transformar ideias em algo funcional e visualmente agradável.
+  Estou sempre em busca de aprimorar meus conhecimentos em programação, principalmente em desenvolvimento web e design.
 </p>
 
 <br/>
