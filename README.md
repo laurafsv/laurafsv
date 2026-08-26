@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Laura+Ferreira!;Tenho+19+anos;Curso+Tecnologia+em+Sistemas+para+Internet+no+IFSP;Foco+em+Desenvolvimento+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Laura+Ferreira!;Tenho+19+anos;Curso+Tecnologia+em+Sistemas+para+Internet+no+IFSP;Desenvolvimento+Full+Stack)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laura-silva-54416735a/" target="_blank">
