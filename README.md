@@ -4,9 +4,7 @@
   <a href="https://www.linkedin.com/in/laura-silva-54416735a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="https://discord.com/users/lalanex" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff" />
-  </a>
+  
   <a href="mailto:laura.ferreira1807@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
