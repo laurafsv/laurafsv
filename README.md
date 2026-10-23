@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Laura+Ferreira!;Tenho+19+anos;Curso+Tecnologia+em+Sistemas+para+Internet+no+IFSP;Desenvolvimento+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Laura+Ferreira!;Tenho+19+anos)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laura-silva-54416735a/" target="_blank">
@@ -19,11 +19,11 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
-  Sou estudante de <strong>Tecnologia em Sistemas para Internet no IFSP</strong> e apaixonada por tecnologia, desenvolvimento web e criação de projetos.
+  Estudo no <strong>IFSP</strong> e gosto de transformar ideias em aplicações web, com atenção à organização do código e à experiência de quem usa.
 </p>
 
 <p>
-  Atualmente, estou aprofundando meus conhecimentos em <strong>Desenvolvimento Full Stack</strong>, explorando tanto Front-End quanto Back-End, sem deixar de lado meu interesse por <strong>UI/UX e Web Design</strong>.
+  Aprofundo meus conhecimentos em projetos acadêmicos e pessoais, combinando programação e cuidado com as interfaces.
 </p>
 
 <br/>
